@@ -52,3 +52,7 @@ Optimize Inventory: Focus on high-performing brands like Apple and top-selling m
 Targeted Marketing: Allocate budget to cities like Mumbai and peak months like May/September.
 
 Customer Experience: Improve payment gateway partnerships based on preferred user methods (E-wallets vs. Cards).
+
+--------------------Dashboard---------------------
+<img width="1174" height="666" alt="image" src="https://github.com/user-attachments/assets/5d60159e-3c99-4039-8165-c43722572cac" />
+
